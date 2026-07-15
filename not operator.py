@@ -1,3 +1,5 @@
 print(not 0)
 print(not 1)
 print(not 10)
+print(not 5==5)
+print(not 5>3 and 10>5)
